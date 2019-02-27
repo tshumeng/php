@@ -1,0 +1,5 @@
+{
+    "require": {
+        "udger/udger-php": "^3.1"
+    }
+}
